@@ -38,3 +38,5 @@ out/
 
 ### Secret Config ###
 application-secret.properties
+
+.env
